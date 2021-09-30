@@ -1,5 +1,5 @@
 - About Me
-- 
+
 Currently learning and working on Javascript, advanced web designing and artificial intelligence.
 I'd love to collaborate with people who does know about teamwork and enough knowledge about discord.js.
 Discord: draxya#2852

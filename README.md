@@ -3,7 +3,7 @@
 + Discord: draxya#2852
 + mail: contactdraxya@gmail.com
 
-- My Projects -
+- My Projects
 
 Jutul Public Bot
 https://top.gg/bot/759823414042034178

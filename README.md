@@ -9,7 +9,6 @@ e-mail: contactdraxya@gmail.com
 
 Jutul Public Bot
 https://top.gg/bot/759823414042034178
-
 Balls Music Bot
 https://www.ballsmusicbot.tk
 <!---

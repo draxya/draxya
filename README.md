@@ -9,5 +9,6 @@
 
 ### My Projects
 
+- [To-Do List](https://todo.draxya.com)
 - [Jutul Public Bot](https://top.gg/bot/759823414042034178)
 - [Jutul Music Bot](https://www.jutulmusicbot.tk)

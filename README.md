@@ -1,7 +1,8 @@
 ### About Me
 
-- Currently learning and working on Javascript, advanced web designing and artificial intelligence.
-- I'd love to collaborate with people who does know about teamwork and enough knowledge about discord.js.
+- Currently learning and working on Javascript, React and artificial intelligence.
+- I'd love to collaborate with people who does know about teamwork and enough knowledge about the subjects i interest.
+- Website: [draxya.com](https://draxya.com)
 - Discord: draxya#2852
 - e-mail: contactdraxya@gmail.com
 

@@ -14,4 +14,4 @@
 - [Hastebin](https://yapistira.ga)
 - [Marill ROV](https://github.com/Marill-Rov)
 - [Jutul Public Bot](https://top.gg/bot/759823414042034178)
-- [Jutul Music Bot](https://www.jutulmusicbot.tk)
+- [Jutul Music Bot](https://jutulmusic.draxya.com)

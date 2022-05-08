@@ -5,7 +5,7 @@
 - Website: [draxya.com](https://draxya.com)
 - Discord: [draxya#2852](https://discord.com/users/432972283171307532)
 - Twitch: [barisguvenn](https://twitch.tv/barisguvenn)
-- E-Mail: barisguven@draxya.com
+- E-Mail: contactdraxya@gmail.com
 
 ### My Projects
 

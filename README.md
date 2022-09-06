@@ -1,4 +1,4 @@
-### About Me
+### ✍️ About Me
 
 - Currently learning and working on Javascript, React and artificial intelligence.
 - I'd love to collaborate with people who does know about teamwork and enough knowledge about the subjects i interest.
@@ -7,7 +7,7 @@
 - Twitch: [barisguvenn](https://twitch.tv/barisguvenn)
 - E-Mail: contactdraxya@gmail.com
 
-### My Projects
+### 🏆 My Top Projects
 
 - [Marill ROV](https://marill.tech)
 - [To-Do List](https://todo.draxya.com)

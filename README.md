@@ -11,6 +11,7 @@
 
 - [Marill ROV](https://marill.tech)
 - [To-Do List](https://todo.draxya.com)
+- [Storyteller](https://github.com/draxya/storyteller)
 - [Link Shortener](https://url.draxya.com)
 - [Hastebin](https://yapistira.ga)
 - [Jutul Music Bot](https://jutulmusic.draxya.com)

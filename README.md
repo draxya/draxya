@@ -1,6 +1,6 @@
 ### ✍️ About Me
 
-- Currently learning and working on Javascript, React and artificial intelligence.
+- Currently learning and working on NodeJS applications, C & machine learning on C++, AI development on Python.
 - I'd love to collaborate with people who does know about teamwork and enough knowledge about the subjects i interest.
 - Website: [draxya.com](https://draxya.com)
 - Discord: [draxya#2852](https://discord.com/users/432972283171307532)

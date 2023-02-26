@@ -2,7 +2,7 @@
 
 - Currently learning and working on NodeJS applications, C & machine learning on C++, AI development on Python.
 - I'd love to collaborate with people who does know about teamwork and enough knowledge about the subjects i interest.
-- Website: [draxya.com](https://draxya.com)
+- Website: [draxya.com](https://draxya.com) (currently down due domain registiration)
 - Discord: [draxya#3232](https://discord.com/users/432972283171307532)
 - Twitch: [draxyaR6](https://twitch.tv/draxyaR6)
 - E-Mail: contactdraxya@gmail.com
